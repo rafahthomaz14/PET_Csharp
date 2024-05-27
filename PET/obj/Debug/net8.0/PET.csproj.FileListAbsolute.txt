@@ -1,0 +1,14 @@
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\bin\Debug\net8.0\PET.exe
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\bin\Debug\net8.0\PET.deps.json
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\bin\Debug\net8.0\PET.runtimeconfig.json
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\bin\Debug\net8.0\PET.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\bin\Debug\net8.0\PET.pdb
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\obj\Debug\net8.0\PET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\obj\Debug\net8.0\PET.AssemblyInfoInputs.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\obj\Debug\net8.0\PET.AssemblyInfo.cs
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\obj\Debug\net8.0\PET.csproj.CoreCompileInputs.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\obj\Debug\net8.0\PET.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\obj\Debug\net8.0\refint\PET.dll
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\obj\Debug\net8.0\PET.pdb
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\obj\Debug\net8.0\PET.genruntimeconfig.cache
+C:\Users\mkt\OneDrive\Área de Trabalho\PET\obj\Debug\net8.0\ref\PET.dll
